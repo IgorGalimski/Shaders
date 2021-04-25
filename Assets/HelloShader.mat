@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: HelloShader
-  m_Shader: {fileID: 4800000, guid: 607a908ee0afa4958b5186fded3ee278, type: 3}
+  m_Shader: {fileID: 4800000, guid: 20222153af6344157baaad2b613165ff, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -81,6 +81,7 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
+    - _multiplier: 1
     - _myAlbedoTreshold: 0.951
     - _myNormalScale: 0.72
     - _myNormalSlider: 1
@@ -91,4 +92,5 @@ Material:
     - _myColour: {r: 0.09814532, g: 0.0047169924, b: 1, a: 1}
     - _myEmission: {r: 1, g: 0, b: 0, a: 1}
     - _myNormal: {r: 1, g: 0.007843138, b: 0.49803925, a: 1}
+    - _rimColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
